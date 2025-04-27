@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/venkatesh-006/random-quote-generator.git/static/css/main.de0d1b84.css",
+    "main.js": "/venkatesh-006/random-quote-generator.git/static/js/main.ca134bd2.js",
+    "index.html": "/venkatesh-006/random-quote-generator.git/index.html",
+    "main.de0d1b84.css.map": "/venkatesh-006/random-quote-generator.git/static/css/main.de0d1b84.css.map",
+    "main.ca134bd2.js.map": "/venkatesh-006/random-quote-generator.git/static/js/main.ca134bd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de0d1b84.css",
+    "static/js/main.ca134bd2.js"
+  ]
+}
